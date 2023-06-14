@@ -8,7 +8,7 @@ This is a web based application developed for promoting a beauty parlour in Indi
 
 **Project Link** - https://gray-ocean-0ceb5b600.3.azurestaticapps.net
 
-**Project Demo Video Link** -
+**Project Demo Video Link** -  https://drive.google.com/file/d/1fyXZBxieL0sxq2W2RXwRVZ8tQFMC2eCF/view?usp=sharing
 
 
 ## Features and Functionalities 😃
