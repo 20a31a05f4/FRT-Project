@@ -1,5 +1,5 @@
 # FRT-Project
-# ✨A Beauty Spa and salon ✨
+# ✨A Beauty Spa and Salon ✨
 
 This is a web based application developed for promoting a beauty parlour in India
 
