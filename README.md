@@ -20,29 +20,31 @@ This is a web based application developed for promoting a beauty parlour in Indi
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
-## Screenshots
 
-![image](https://github.com/20a31a05f4/FRT-Project/assets/110026196/91fabde7-a5af-4835-bf14-7f1fb6f2c117)
+
+### Screenshots
+![image](https://github.com/20a31a05f4/FRT-Project/assets/110026196/48dd638d-2f4d-4a41-9d0a-0fdbbaacf7b9)
+
 
 
 ### About Us -
+![image](https://github.com/20a31a05f4/FRT-Project/assets/110026196/2ff9f1a2-83b3-473d-a621-bd15b6ce136c)
 
-![image](https://github.com/20a31a05f4/FRT-Project/assets/110026196/09ed7843-32d5-4a66-bf5d-48658d77e415)
 
 
 ### Services - 
+![image](https://github.com/20a31a05f4/FRT-Project/assets/110026196/45763eb4-c878-46e5-8307-ab8dcf5e05a1)
 
-![image](https://github.com/20a31a05f4/FRT-Project/assets/110026196/1b3d648d-2851-40c0-9cc3-456a11daba7c)
 
 
 ### Contact - 
+![image](https://github.com/20a31a05f4/FRT-Project/assets/110026196/aaeeee6b-9c4a-4cd1-a2cd-3c62b597bf9a)
 
-![image](https://github.com/20a31a05f4/FRT-Project/assets/110026196/e1bbab20-16a3-499a-ae0c-9cef3dc8e639)
 
 
 ### Health Bot -
+![image](https://github.com/20a31a05f4/FRT-Project/assets/110026196/4c828113-bc22-4b33-8af1-07c6b7f34380)
 
-![image](https://github.com/20a31a05f4/FRT-Project/assets/110026196/8851b6a1-b6fa-4333-aee6-eeb0801fca45)
 
 
 ### Privacy policy -
